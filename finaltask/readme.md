@@ -30,7 +30,7 @@ We implement a **swappable positional encoding module**, allowing seamless compa
 
 The core model is a custom implementation:
 
-### 🔧 Components
+###  Components
 
 * Token Embedding Layer
 * Multi-Head Self Attention (custom implementation)
@@ -120,7 +120,7 @@ This enables:
 
 ---
 
-## ⚠️ Implementation Challenges
+##  Implementation Challenges
 
 ### 1. Vocabulary Mismatch
 
